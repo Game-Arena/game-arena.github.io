@@ -1,8 +1,35 @@
 <!DOCTYPE html>
 
-<html lang="en-US">
+<html lang="en-US"><head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.5.0 -->
+<title>game-arena.github.io</title>
+<meta name="generator" content="Jekyll v3.8.5">
+<meta property="og:title" content="game-arena.github.io">
+<meta property="og:locale" content="en_US">
+<link rel="canonical" href="https://game-arena.github.io/">
+<meta property="og:url" content="https://game-arena.github.io/">
+<meta property="og:site_name" content="game-arena.github.io">
+<script type="application/ld+json">
+{"headline":"game-arena.github.io","@type":"WebSite","url":"https://game-arena.github.io/","name":"game-arena.github.io","@context":"http://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/assets/css/style.css?v=6c9e967da1598991eeea200a3b6e298f41bd495d">
+  </head>
+  <body>
+    <div>
+      
+      
+      
+
+      
+
+
   
-  <head>
+  
   
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -18,9 +45,9 @@
 <meta property="og:url" content="https://game-arena.github.io/">
 <meta property="og:site_name" content="game-arena.github.io">
 
-  </head>
+  
 
-  <body>
+  
 
     <!-- HEADER -->
     <div id="header_wrap" class="outer">
@@ -63,5 +90,16 @@
         <p>Copyright 2019, All Rights Reservered</p>
       </footer>
     </div>
+  
+
+
+
+      
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+    
+  
+
   </body>
 </html>
